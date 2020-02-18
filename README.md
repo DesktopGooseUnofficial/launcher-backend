@@ -1,7 +1,6 @@
 # launcher-backend
+welcome to the backend for the resourcehublauncher!
 
-welcome to the backend for resourcehublauncher! 
+unfortunately, the launcher is still a very work in progress.
 
-unfortunately, you won't find much here.
-
-if you're looking for the source code for the launcher itself, please see [this github repo](https://github.com/DesktopGooseUnofficial/launcher).
+looking for the launcher? check [this github repo](https://github.com/desktopgooseunofficial/launcher).
