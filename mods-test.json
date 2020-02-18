@@ -1,0 +1,37 @@
+{
+  "mods": {
+    "hello-world": {
+      "name": "Hello, World!",
+      "name-internal": "hello-world",
+      "level": 0, //0: green, 1: yellow, 2: red, 3: exploding (perferably unused), -1: inapplicable
+      "category": "default",
+      "description": "It hello-worlds!",
+      "goose-version": "0.3",
+      "mod-version": "1.2",
+      "url": "hello.com/helloworld.zip",
+      "resourcehub": "insert link to mod in resource hub here"
+    },
+    "foobar-loader": {
+      "name": "FooBar",
+      "name-internal": "foobar-loader",
+      "level": -1, //0: green, 1: yellow, 2: red, 3: exploding (perferably unused), -1: inapplicable
+      "category": "modloader",
+      "description": "Load some mods with foobar!",
+      "goose-version": "0.3",
+      "mod-version": "2.4",
+      "url": "foobar.github.io/latest.zip",
+      "resourcehub": "insert link to mod in resource hub here"
+    },
+    "destructive-mod": {
+      "name": "Destructive mod!",
+      "name-internal": "destructive-mod",
+      "level": 2, //0: green, 1: yellow, 2: red, 3: exploding (perferably unused), -1: inapplicable
+      "category": "default",
+      "description": "Very bad!!! Will stuck mouse and goose blow up everything!!",
+      "goose-version": "0.3",
+      "mod-version": "0.2",
+      "url": "ooh very bad!!!",
+      "resourcehub": "insert link to mod in resource hub here"
+    }
+  }
+}
