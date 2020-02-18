@@ -1,4 +1,5 @@
 {
+  "type": "modlist",
   "mods": {
     "hello-world": {
       "name": "Hello, World!",
