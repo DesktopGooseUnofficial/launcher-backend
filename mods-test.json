@@ -4,7 +4,7 @@
     "hello-world": {
       "name": "Hello, World!",
       "name-internal": "hello-world",
-      "level": 0, //0: green, 1: yellow, 2: red, 3: exploding (perferably unused), -1: inapplicable
+      "level": 0,
       "category": "default",
       "description": "It hello-worlds!",
       "goose-version": "0.3",
@@ -15,7 +15,7 @@
     "foobar-loader": {
       "name": "FooBar",
       "name-internal": "foobar-loader",
-      "level": -1, //0: green, 1: yellow, 2: red, 3: exploding (perferably unused), -1: inapplicable
+      "level": -1,
       "category": "modloader",
       "description": "Load some mods with foobar!",
       "goose-version": "0.3",
@@ -26,7 +26,7 @@
     "destructive-mod": {
       "name": "Destructive mod!",
       "name-internal": "destructive-mod",
-      "level": 2, //0: green, 1: yellow, 2: red, 3: exploding (perferably unused), -1: inapplicable
+      "level": 2,
       "category": "default",
       "description": "Very bad!!! Will stuck mouse and goose blow up everything!!",
       "goose-version": "0.3",
