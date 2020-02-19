@@ -11,7 +11,7 @@
       "description": "Very cool mod that allows you to feed your Goose with breadcrumbs.",
       "goose-version": "0.3",
       "mod-version": "1.2",
-      "url": "hello.com/helloworld.zip",
+      "url": "https://github.com/euandeas/GooseMod_BreadCrumbs/releases/latest/download/BreadCrumbs.zip",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/BreadCrumbs.html"
     },
     "foobar-loader": {
