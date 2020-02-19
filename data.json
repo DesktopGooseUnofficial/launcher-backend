@@ -1,12 +1,6 @@
 {
-  "type": "modlist",
-  "__info__": {
-    "levels": {
-      "inapplicable": -1,
-      "safe": 0,
-      "warning": 1,
-      "dangerous": 2,
-    },
+  "launcher": {
+    "version": 0.01,
   },
   "mods": {
     "hello-world": {
