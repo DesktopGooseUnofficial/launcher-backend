@@ -3,16 +3,16 @@
     "md5": "TESTING",
   },
   "mods": {
-    "hello-world": {
-      "name": "Hello, World!",
-      "name-internal": "hello-world",
+    "breadcrumbs": {
+      "name": "BreadCrumbs",
+      "name-internal": "BreadCrumbs",
       "level": 0,
       "category": "default",
-      "description": "It hello-worlds!",
+      "description": "Very cool mod that allows you to feed your Goose with breadcrumbs.",
       "goose-version": "0.3",
       "mod-version": "1.2",
       "url": "hello.com/helloworld.zip",
-      "resourcehub": "insert link to mod in resource hub here"
+      "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/BreadCrumbs.html"
     },
     "foobar-loader": {
       "name": "FooBar",
