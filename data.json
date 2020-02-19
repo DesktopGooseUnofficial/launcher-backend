@@ -1,6 +1,6 @@
 {
-  "launcher": {
-    "version": 0.01,
+  "app": {
+    "md5": "TESTING",
   },
   "mods": {
     "hello-world": {
