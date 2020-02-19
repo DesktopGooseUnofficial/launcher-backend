@@ -1,5 +1,13 @@
 {
   "type": "modlist",
+  "__info__": {
+    "levels": {
+      "inapplicable": -1,
+      "safe": 0,
+      "warning": 1,
+      "dangerous": 2,
+    },
+  },
   "mods": {
     "hello-world": {
       "name": "Hello, World!",
