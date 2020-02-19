@@ -7,7 +7,7 @@
       "warning": 1,
       "dangerous": 2,
     },
-  }
+  },
   "mods": {
     "hello-world": {
       "name": "Hello, World!",
