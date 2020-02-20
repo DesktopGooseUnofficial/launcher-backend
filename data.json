@@ -25,6 +25,17 @@
       "url": "foobar.github.io/latest.zip",
       "resourcehub": "insert link to mod in resource hub here"
     },
+    "label-mod": {
+      "name": "Label Mod",
+      "name-internal": "label-mod",
+      "level": 0,
+      "category": "default",
+      "description": "Info about your goose",
+      "goose-version": "0.3",
+      "mod-version": "1.2",
+      "url": "https://github.com/CodeF53/Goose_LabelMod/releases/download/v1.2/ShowTask.dll", 
+      "resourcehub": "insert link to mod in resource hub here"
+    },
     "destructive-mod": {
       "name": "Destructive mod!",
       "name-internal": "destructive-mod",
