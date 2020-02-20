@@ -15,15 +15,15 @@
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/BreadCrumbs.html"
     },
     "foobar-loader": {
-      "name": "FooBar",
-      "name-internal": "foobar-loader",
-      "level": -1,
-      "category": "modloader",
-      "description": "Load some mods with foobar!",
+      "name": "GooseManager",
+      "name-internal": "goosemanager",
+      "level": 0,
+      "category": "default",
+      "description": "Manage your Goose.",
       "goose-version": "0.3",
-      "mod-version": "2.4",
-      "url": "foobar.github.io/latest.zip",
-      "resourcehub": "insert link to mod in resource hub here"
+      "mod-version": "1.0",
+      "url": "https://github.com/1JQ/GooseManager/releases/download/v1.0/GooseManager.dll?raw=true",
+      "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/GooseManager.html"
     },
     "label-mod": {
       "name": "Label Mod",
