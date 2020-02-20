@@ -68,6 +68,17 @@
       "mod-version": "1.0",
       "url": "https://raw.githubusercontent.com/NE1W01F/Gooes-ModGooes-Mod/master/Clicker/bin/Debug/netstandard2.0/Clicker.dll",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/Clicker.html"
+    },
+    "clicker": {
+      "name": "hatgoos",
+      "name-internal": "hatgoos",
+      "level": 0,
+      "category": "default",
+      "description": "give your goos a hat (or your hat a goos if you prefer)",
+      "goose-version": "0.3",
+      "mod-version": "0.1.0",
+      "url": "https://cdn.discordapp.com/attachments/676616674601992223/676952329110421517/HatGoos.zip",
+      "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/hatgoos.html"
     }
   }
 }
