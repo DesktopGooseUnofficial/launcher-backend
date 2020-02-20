@@ -10,7 +10,7 @@
       "category": "default",
       "description": "Very cool mod that allows you to feed your Goose with breadcrumbs.",
       "goose-version": "0.3",
-      "mod-version": "1.2",
+      "mod-version": "1.3",
       "url": "https://github.com/euandeas/GooseMod_BreadCrumbs/releases/latest/download/BreadCrumbs.zip",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/BreadCrumbs.html"
     },
@@ -55,7 +55,7 @@
       "description": "Drag the goose.",
       "goose-version": "0.3",
       "mod-version": "1.0",
-      "url": "https://github.com/euandeas/GooseMod_DragGoose/releases/download/1.0/DragGoose.zip",
+      "url": "https://github.com/euandeas/GooseMod_DragGoose/releases/download/1.0/DragGoose.dll",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/DragGoose.html"
     },
     "clicker": {
