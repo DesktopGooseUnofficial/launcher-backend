@@ -2,6 +2,15 @@
 
 welcome to the backend for the resourcehublauncher!
 
-unfortunately, the launcher is still a very work in progress.
-
 looking for the launcher? check [this github repo](https://github.com/desktopgooseunofficial/launcher).
+
+```json
+  "__info__": {
+    "levels": {
+      "inapplicable": -1,
+      "safe": 0,
+      "warning": 1,
+      "dangerous": 2,
+    },
+  }
+```
