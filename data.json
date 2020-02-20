@@ -36,16 +36,16 @@
       "url": "https://github.com/CodeF53/Goose_LabelMod/releases/download/v1.2/ShowTask.dll", 
       "resourcehub": "insert link to mod in resource hub here"
     },
-    "destructive-mod": {
-      "name": "Destructive mod!",
-      "name-internal": "destructive-mod",
-      "level": 2,
-      "category": "default",
-      "description": "Very bad!!! Will stuck mouse and goose blow up everything!!",
+    "goose-lua": {
+      "name": "GooseLua",
+      "name-internal": "goose-lua",
+      "level": -1,
+      "category": "modloader",
+      "description": "Make mods in Lua. Alpha version.",
       "goose-version": "0.3",
-      "mod-version": "0.2",
-      "url": "ooh very bad!!!",
-      "resourcehub": "insert link to mod in resource hub here"
+      "mod-version": "0.3",
+      "url": "https://github.com/GooseLua/GooseLua/releases/download/v0.3-alpha/GooseLua.zip",
+      "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/GooseLua.html"
     }
   }
 }
