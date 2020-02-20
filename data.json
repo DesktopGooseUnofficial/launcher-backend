@@ -5,7 +5,7 @@
   "mods": {
     "breadcrumbs": {
       "name": "BreadCrumbs",
-      "name-internal": "BreadCrumbs",
+      "name-internal": "breadcrumbs",
       "level": 0,
       "category": "default",
       "description": "Very cool mod that allows you to feed your Goose with breadcrumbs.",
