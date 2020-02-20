@@ -46,6 +46,17 @@
       "mod-version": "0.3",
       "url": "https://github.com/GooseLua/GooseLua/releases/download/v0.3-alpha/GooseLua.zip",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/GooseLua.html"
+    },
+    "goose-lua": {
+      "name": "DragGoose",
+      "name-internal": "draggoose",
+      "level": 0,
+      "category": "default",
+      "description": "Drag the goose.",
+      "goose-version": "0.3",
+      "mod-version": "1.0",
+      "url": "https://github.com/euandeas/GooseMod_DragGoose/releases/download/1.0/DragGoose.zip",
+      "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/DragGoose.html"
     }
   }
 }
