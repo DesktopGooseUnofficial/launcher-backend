@@ -11,6 +11,7 @@ looking for the launcher? check [this github repo](https://github.com/desktopgoo
       "safe": 0,
       "warning": 1,
       "dangerous": 2,
+      "exploding": 3,
     },
   }
 ```
