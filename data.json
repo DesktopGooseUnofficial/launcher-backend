@@ -57,6 +57,17 @@
       "mod-version": "1.0",
       "url": "https://github.com/euandeas/GooseMod_DragGoose/releases/download/1.0/DragGoose.zip",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/DragGoose.html"
+    },
+    "clicker": {
+      "name": "Clicker",
+      "name-internal": "clicker",
+      "level": 1,
+      "category": "default",
+      "description": "If you want to make your goose even more chaotic, then this mods for you. It will randomly click and open applications on your desktop.",
+      "goose-version": "0.3",
+      "mod-version": "1.0",
+      "url": "https://raw.githubusercontent.com/NE1W01F/Gooes-ModGooes-Mod/master/Clicker/bin/Debug/netstandard2.0/Clicker.dll",
+      "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/Clicker.html"
     }
   }
 }
