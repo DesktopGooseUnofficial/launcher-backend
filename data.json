@@ -14,6 +14,17 @@
       "url": "https://github.com/euandeas/GooseMod_BreadCrumbs/releases/latest/download/BreadCrumbs.zip",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/BreadCrumbs.html"
     },
+    "quacklua": {
+      "name": "Quack (Lua Modloader)",
+      "name-internal": "quacklua",
+      "level": -1,
+      "category": "modloader",
+      "description": "A Lua API for Desktop Goose.",
+      "goose-version": "0.3",
+      "mod-version": "0.2",
+      "url": "https://github.com/cuboide/QuackLuaModloader/releases/download/0.2/QuackLua.zip",
+      "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/Quack.html"
+    },
     "goosemanager": {
       "name": "GooseManager",
       "name-internal": "goosemanager",
