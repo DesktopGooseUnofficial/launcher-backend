@@ -15,7 +15,7 @@
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/BreadCrumbs.html"
     },
     "quacklua": {
-      "name": "Quack (Lua Modloader)",
+      "name": "QuackLua",
       "name-internal": "quacklua",
       "level": -1,
       "category": "modloader",
