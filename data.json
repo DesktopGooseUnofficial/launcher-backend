@@ -90,6 +90,17 @@
       "mod-version": "0.1.0",
       "url": "https://cdn.discordapp.com/attachments/676616674601992223/676952329110421517/HatGoos.zip",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/hatgoos.html"
+    },
+    "DiscoGoose": {
+      "name": "DiscoGoose",
+      "name-internal": "discogoose",
+      "level": 0,
+      "category": "default",
+      "description": "Turn your regular, boring goose into a party goose!",
+      "goose-version": "0.3",
+      "mod-version": "0.1.2",
+      "url": "https://github.com/VeeDeeOh/DiscoGoose/releases/download/1.2/DiscoGoose_1.2.zip",
+      "resourcehub": "https://github.com/DesktopGooseUnofficial/ResourceHub/blob/master/mods/DiscoGoose.md"
     }
   }
 }
