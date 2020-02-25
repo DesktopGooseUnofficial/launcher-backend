@@ -134,6 +134,17 @@
       "mod-version": "1.0",
       "url": "https://github.com/TheOrlando/DesktopGooseMod_Ball/releases/download/1.0/BallModv1.0.zip",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/Ball.html"
+    },
+    "shaggymenu": {
+      "name": "ShaggysGooseMenu",
+      "name-internal": "shaggymenu",
+      "level": 0,
+      "category": "default",
+      "description": "Easier way to use config, this mod adds a config editor menu on launch",
+      "goose-version": "0.3",
+      "mod-version": "1.0",
+      "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/ShaggyMenu-1.0/ShaggysGooseMenu.zip",
+      "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/ShaggysConfigGUI.html"
     }
   }
 }
