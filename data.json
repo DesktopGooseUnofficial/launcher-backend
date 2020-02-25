@@ -44,7 +44,7 @@
       "description": "Debugging tool. See Console.Writeln()'s",
       "goose-version": "0.3",
       "mod-version": "1.0",
-      "url": "https://github.com/CodeF53/DskptGoose-Debugoose/releases/download/v1.0/debugoose.dll", 
+      "url": "https://github.com/CodeF53/DskptGoose-Debugoose/releases/download/v1.0/debugoose.dll",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/Debugoose.html"
     },
     "goose-lua": {
@@ -91,7 +91,7 @@
       "url": "https://cdn.discordapp.com/attachments/676616674601992223/676952329110421517/HatGoos.zip",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/hatgoos.html"
     },
-    "DiscoGoose": {
+    "discogoose": {
       "name": "DiscoGoose",
       "name-internal": "discogoose",
       "level": 0,
@@ -101,6 +101,28 @@
       "mod-version": "0.1.2",
       "url": "https://github.com/VeeDeeOh/DiscoGoose/releases/download/1.2/DiscoGoose_1.2.zip",
       "resourcehub": "https://github.com/DesktopGooseUnofficial/ResourceHub/blob/master/mods/DiscoGoose.md"
+    },
+    "necc": {
+      "name": "NECC",
+      "name-internal": "necc",
+      "level": 0,
+      "category": "default",
+      "description": "Give Goose a long NECC. Like, really long.",
+      "goose-version": "0.3",
+      "mod-version": "1.0",
+      "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/necc-1.0/NECC.dll",
+      "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/NECC.html"
+    },
+    "acidgoose": {
+      "name": "Acid Goose",
+      "name-internal": "acidgoose",
+      "level": 0,
+      "category": "default",
+      "description": "A very weird version of the Goose we know and love",
+      "goose-version": "0.3",
+      "mod-version": "1.0",
+      "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/AcidGoose/AcidGoose.zip",
+      "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/AcidGoose.html"
     }
   }
 }
