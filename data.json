@@ -156,6 +156,17 @@
       "mod-version": "1.0",
       "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/ShaggyNametag-1.0/ShaggysNameMod.zip",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/ShaggysNametagMod.html"
+    },
+    "honcker": {
+      "name": "Honcker",
+      "name-internal": "honcker",
+      "level": 0,
+      "category": "default",
+      "description": "A very simple mod that allows you to make your goose honk at will with the F key",
+      "goose-version": "0.3",
+      "mod-version": "1.0",
+      "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/honcker/Honcker.dll",
+      "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/Honcker.html"
     }
   }
 }
