@@ -53,10 +53,10 @@
       "name-internal": "debugoose",
       "level": 0,
       "category": "default",
-      "description": "Debugging tool. See Console.Writeln()'s",
+      "description": "CodeF53's Debugging tool.\n - Shows console output while goose is running\n - Saves full console output to log.txt\n - Other debugging info \nPM CodeF53#0241 to request features",
       "goose-version": "0.3",
       "mod-version": "1.0",
-      "url": "https://github.com/CodeF53/DskptGoose-Debugoose/releases/download/v1.0/debugoose.dll",
+      "url": "https://github.com/CodeF53/DskptGoose-Debugoose/releases/download/v1.1/debugoose.dll",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/Debugoose.html"
     },
     "Sonigoose": {
