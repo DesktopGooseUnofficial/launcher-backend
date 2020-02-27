@@ -15,6 +15,17 @@
       "url": "https://github.com/euandeas/GooseMod_BreadCrumbs/releases/latest/download/BreadCrumbs.zip",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/BreadCrumbs.html"
     },
+    "breadcrumbsconfig": {
+      "name": "BreadCrumbs-Config",
+      "name-internal": "breadcrumbsconfig",
+      "level": 0,
+      "category": "default",
+      "description": "A fork of Eundeas's Mod so that you can change the keybind that feeds your goose.",
+      "goose-version": "0.3",
+      "mod-version": "1.4",
+      "url": "https://github.com/GamingInfinite/GooseMod_BreadCrumbs/releases/latest/download/BreadCrumbs.zip",
+      "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/BreadCrumbs-Config.html"
+    },
     "quacklua": {
       "name": "QuackLua",
       "name-internal": "quacklua",
