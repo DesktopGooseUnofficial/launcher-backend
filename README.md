@@ -15,3 +15,7 @@ looking for the launcher? check [this github repo](https://github.com/desktopgoo
     },
   }
 ```
+
+## I found a bug in the launcher, or I have an idea for an enhancement for the launcher! Where do I submit it?
+
+Please use [the launcher issue tracker](https://github.com/DesktopGooseUnofficial/launcher/issues/new/choose).
