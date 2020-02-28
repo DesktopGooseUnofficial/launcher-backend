@@ -9,22 +9,11 @@
       "name-internal": "breadcrumbs",
       "level": 0,
       "category": "default",
-      "description": "A cute little mod that allows you to feed your goose with the right shift key. When fed bread, geese calm down from whatever they were doing. You can change the bread sprite, and the \"nom\" sound. (2020 Samperson Mod Jam winner!)",
-      "goose-version": "0.3",
-      "mod-version": "1.3",
-      "url": "https://github.com/euandeas/GooseMod_BreadCrumbs/releases/latest/download/BreadCrumbs.zip",
-      "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/BreadCrumbs.html"
-    },
-    "breadcrumbsconfig": {
-      "name": "BreadCrumbs",
-      "name-internal": "breadcrumbsconfig",
-      "level": 0,
-      "category": "default",
-      "description": "A fork of Eundeas's mod. Change the keybind. Interesting description here.",
+      "description": "A cute little mod that allows you to feed your goose with the right shift key. When fed bread, geese calm down from whatever they were doing. You can change the bread sprite, the \"nom\" sound, the key bind and the image size. (2020 Samperson Mod Jam winner!)",
       "goose-version": "0.3",
       "mod-version": "1.4",
-      "url": "https://github.com/GamingInfinite/GooseMod_BreadCrumbs/releases/latest/download/BreadCrumbs.zip",
-      "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/BreadCrumbs-Config.html"
+      "url": "https://github.com/euandeas/GooseMod_BreadCrumbs/releases/latest/download/BreadCrumbs.zip",
+      "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/BreadCrumbs.html"
     },
     "quacklua": {
       "name": "QuackLua",
