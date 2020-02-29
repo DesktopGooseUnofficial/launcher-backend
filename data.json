@@ -1,6 +1,7 @@
 {
   "app": {
     "md5": "B99583846ED236A93468F4935553215A",
+    "md5Beta": "",
   },
   "before-adding-mods": "WARNING! NAME VALUE HAS TO BE THE SAME AS THE MOD FILE NAME, OR THINGS BREAK. (not the .dll or .zip part, just the name like BreadCrumbs)",
   "mods": {
