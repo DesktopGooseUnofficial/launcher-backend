@@ -34,8 +34,8 @@
       "category": "default",
       "description": "Manage Goose actions and speed tiers. Now you can finally disable your goose from bringing you memes without an error popping up! (2020 Samperson Mod Jam winner)",
       "goose-version": "0.3",
-      "mod-version": "1.0",
-      "url": "https://github.com/1JQ/GooseManager/releases/download/v1.0/GooseManager.dll",
+      "mod-version": "1.1",
+      "url": "https://github.com/1JQ/GooseManager/releases/latest/download/GooseManager.dll",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/GooseManager.html"
     },
     "label-mod": {
