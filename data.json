@@ -191,6 +191,17 @@
       "mod-version": "1.0",
       "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/honcker/Honcker.dll",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/Honcker.html"
+    },
+    "portalgoos": {
+      "name": "PortalGoos",
+      "name-internal": "portalgoos",
+      "level": 0,
+      "category": "default",
+      "description": "Portal gun for your goos! Place portals by holding p and pressing either 1 or 2. The goos can also go through portals while holding either a meme / notepad or your cursor!",
+      "goose-version": "0.3",
+      "mod-version": "1.0",
+      "url": "https://github.com/Moonaliss1/DesktopGooseMod_PortalGoos/releases/tag/v1.0",
+      "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/PortalGoos.html"
     }
   }
 }
