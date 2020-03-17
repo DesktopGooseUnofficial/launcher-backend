@@ -37,6 +37,7 @@
       "goose-version": "0.3",
       "mod-version": "0.2",
       "url": "https://github.com/cuboide/QuackLuaModloader/releases/download/0.2/QuackLua.zip",
+      "install-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Mod%20Default%20Installers/Installer1/Installer.dll?raw=true",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/Quack.html"
     },
     "goosemanager": {
@@ -82,6 +83,7 @@
       "goose-version": "0.3",
       "mod-version": "0.3",
       "url": "https://github.com/GooseLua/GooseLua/releases/download/v0.3-alpha/GooseLua.zip",
+      "install-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Mod%20Default%20Installers/Installer1/Installer.dll?raw=true",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/GooseLua.html"
     },
     "draggoose": {
@@ -115,6 +117,7 @@
       "goose-version": "0.3",
       "mod-version": "0.1.0",
       "url": "https://cdn.discordapp.com/attachments/676616674601992223/676952329110421517/HatGoos.zip",
+      "install-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Mod%20Default%20Installers/Installer1/Installer.dll?raw=true",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/hatgoos.html"
     },
     "discogoose": {
@@ -126,6 +129,7 @@
       "goose-version": "0.3",
       "mod-version": "0.1.2",
       "url": "https://github.com/VeeDeeOh/DiscoGoose/releases/download/1.2/DiscoGoose_1.2.zip",
+      "install-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Mod%20Default%20Installers/Installer1/Installer.dll?raw=true",
       "resourcehub": "https://github.com/DesktopGooseUnofficial/ResourceHub/blob/master/mods/DiscoGoose.md"
     },
     "necc": {
@@ -148,6 +152,7 @@
       "goose-version": "0.3",
       "mod-version": "1.0",
       "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/AcidGoose/AcidGoose.zip",
+      "install-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Mod%20Default%20Installers/Installer1/Installer.dll?raw=true",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/AcidGoose.html"
     },
     "ball": {
@@ -159,6 +164,7 @@
       "goose-version": "0.3",
       "mod-version": "1.0",
       "url": "https://github.com/TheOrlando/DesktopGooseMod_Ball/releases/download/1.0/BallModv1.0.zip",
+      "install-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Mod%20Default%20Installers/Installer1/Installer.dll?raw=true",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/Ball.html"
     },
     "toys": {
@@ -170,6 +176,7 @@
       "goose-version": "0.3",
       "mod-version": "1.1",
       "url": "https://github.com/TheOrlando/DesktopGooseMod_Toys/releases/download/latest/ToysModv1.1.zip",
+      "install-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Mod%20Default%20Installers/Installer1/Installer.dll?raw=true",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/Toys.html"
     },
     "shaggymenu": {
@@ -181,6 +188,7 @@
       "goose-version": "0.3",
       "mod-version": "1.0",
       "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/ShaggyMenu-1.0/ShaggysGooseMenu.zip",
+      "install-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Mod%20Default%20Installers/Installer1/Installer.dll?raw=true",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/ShaggysConfigGUI.html"
     },
     "shaggynamemod": {
@@ -192,6 +200,7 @@
       "goose-version": "0.3",
       "mod-version": "1.0",
       "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/ShaggyNametag-1.0/ShaggysNameMod.zip",
+      "install-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Mod%20Default%20Installers/Installer1/Installer.dll?raw=true",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/ShaggysNametagMod.html"
     },
     "honcker": {
@@ -214,6 +223,7 @@
       "goose-version": "0.3",
       "mod-version": "1.0",
       "url": "https://github.com/Moonaliss1/DesktopGooseMod_PortalGoos/releases/download/v1.0/PortalGoos.zip",
+      "install-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Mod%20Default%20Installers/Installer2/Installer.dll?raw=true",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/PortalGoos.html"
     }
   }
