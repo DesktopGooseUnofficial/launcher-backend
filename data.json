@@ -38,7 +38,7 @@
       "description": "A Lua API for Desktop Goose mods.",
       "goose-version": "0.3",
       "mod-version": "0.2",
-      "url": "https://github.com/cuboide/QuackLuaModloader/releases/download/0.2/QuackLua.zip",
+      "url": "https://github.com/cuboide/QuackLuaModloader/releases/download/v0.21/QuackLua.zip",
       "install-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Mod%20Default%20Installers/Installer1/Installer.dll?raw=true",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/Quack.html"
     },
