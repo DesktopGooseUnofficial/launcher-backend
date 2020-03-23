@@ -27,6 +27,7 @@
       "mod-version": "1.4",
       "url": "https://github.com/euandeas/GooseMod_BreadCrumbs/releases/latest/download/BreadCrumbs.zip",
       "install-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Mod%20Default%20Installers/Installer1/Installer.dll?raw=true",
+      "config-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Temporary%20mod%20configurators/BreadCrumbs/Configurator.dll?raw=true",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/BreadCrumbs.html"
     },
     "quacklua": {
@@ -129,6 +130,7 @@
       "mod-version": "0.1.0",
       "url": "https://cdn.discordapp.com/attachments/676616674601992223/676952329110421517/HatGoos.zip",
       "install-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Mod%20Default%20Installers/Installer1/Installer.dll?raw=true",
+      "config-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Temporary%20mod%20configurators/HatGoos/Configurator.dll?raw=true",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/hatgoos.html"
     },
     "discogoose": {
@@ -142,6 +144,7 @@
       "mod-version": "0.1.2",
       "url": "https://github.com/VeeDeeOh/DiscoGoose/releases/download/1.2/DiscoGoose_1.2.zip",
       "install-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Mod%20Default%20Installers/Installer1/Installer.dll?raw=true",
+      "config-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Temporary%20mod%20configurators/DiscoGoose/Configurator.dll?raw=true",
       "resourcehub": "https://github.com/DesktopGooseUnofficial/ResourceHub/blob/master/mods/DiscoGoose.md"
     },
     "necc": {
@@ -180,6 +183,7 @@
       "mod-version": "1.0",
       "url": "https://github.com/TheOrlando/DesktopGooseMod_Ball/releases/download/1.0/BallModv1.0.zip",
       "install-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Mod%20Default%20Installers/Installer1/Installer.dll?raw=true",
+      "config-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Temporary%20mod%20configurators/BallModv1.0/Configurator.dll?raw=true",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/Ball.html"
     },
     "toys": {
@@ -193,6 +197,7 @@
       "mod-version": "1.1",
       "url": "https://github.com/TheOrlando/DesktopGooseMod_Toys/releases/download/latest/ToysModv1.1.zip",
       "install-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Mod%20Default%20Installers/Installer1/Installer.dll?raw=true",
+      "config-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Temporary%20mod%20configurators/ToysModv1.1/Configurator.dll?raw=true",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/Toys.html"
     },
     "shaggymenu": {
@@ -219,6 +224,7 @@
       "mod-version": "1.0",
       "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/ShaggyNametag-1.0/ShaggysNameMod.zip",
       "install-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Mod%20Default%20Installers/Installer1/Installer.dll?raw=true",
+      "config-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Temporary%20mod%20configurators/ShaggysNameMod/Configurator.dll?raw=true",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/ShaggysNametagMod.html"
     },
     "honcker": {
@@ -244,6 +250,7 @@
       "mod-version": "1.0",
       "url": "https://github.com/Moonaliss1/DesktopGooseMod_PortalGoos/releases/download/v1.0/PortalGoos.zip",
       "install-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Mod%20Default%20Installers/Installer2/Installer.dll?raw=true",
+      "config-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Temporary%20mod%20configurators/PortalGoos/Configurator.dll?raw=true",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/PortalGoos.html"
     }
   }
