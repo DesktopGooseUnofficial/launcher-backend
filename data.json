@@ -43,7 +43,7 @@
       "install-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Mod%20Default%20Installers/Installer1/Installer.dll?raw=true",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/Quack.html"
     },
-      "memegoos": {
+    "memegoos": {
       "name": "MemeGoos",
       "name-internal": "memegoos",
       "level": 0,
@@ -55,7 +55,6 @@
       "url": "https://github.com/Plutonium-236/memegoos/releases/download/0.0.1/memegoos.dll",
       "resourcehub": ""
     },
-    
     "goosemanager": {
       "name": "GooseManager",
       "name-internal": "goosemanager",
