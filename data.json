@@ -43,6 +43,19 @@
       "install-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Mod%20Default%20Installers/Installer1/Installer.dll?raw=true",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/Quack.html"
     },
+      "memegoos": {
+      "name": "MemeGoos",
+      "name-internal": "memegoos",
+      "level": 0,
+      "category": "default",
+      "author": "pluto_null#2473",
+      "description": "F12 to make your goose bring you a meme.",
+      "goose-version": "0.3",
+      "mod-version": "0.0.1",
+      "url": "https://github.com/Plutonium-236/memegoos/releases/download/0.0.1/memegoos.dll",
+      "resourcehub": ""
+    },
+    
     "goosemanager": {
       "name": "GooseManager",
       "name-internal": "goosemanager",
