@@ -16,6 +16,20 @@
       "mod-version": "1.0",
       "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/rainbowstrobe/RainbowStrobe.dll"
     },
+       "speedgoos": {
+      "name": "SpeedGoos",
+      "name-internal": "speedgoos",
+      "level": 0,
+      "category": "default",
+      "author": "pluto_null#2473",
+      "description": "A little mod that allows you to change the speed of your goos. F7 is walk, F8 is run,F9 is charge, F10 resets the walk, run, and charge values back to normal, and then F11 makes yur goos go sonic fast",
+      "goose-version": "0.3",
+      "mod-version": "1.0",
+      "url": "https://github.com/Plutonium-236/speedgoos/releases/download/1.0/speedgoos.dll",
+      
+     
+      "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/404.html"
+    },
     "breadcrumbs": {
       "name": "BreadCrumbs",
       "name-internal": "breadcrumbs",
