@@ -16,6 +16,18 @@
       "mod-version": "1.0",
       "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/rainbowstrobe/RainbowStrobe.dll"
     },
+    "arrowgoos": {
+      "name": "ArrowGoos",
+      "name-internal": "arrowgoos",
+      "level": 0,
+      "category": "default",
+      "author": "pluto_null#2473",
+      "description": "Have you ever wanted to control your goos? well now you can, combining accurate data and astonishing technology we can now drain the oceans. wait sorry move your goose.",
+      "goose-version": "0.3",
+      "mod-version": "1.0",
+      "url": "https://github.com/Plutonium-236/ArrowGoose/releases/download/1.0.0/ArrowGoos.dll",
+      "resourcehub": ""
+    },
     "speedgoos": {
       "name": "SpeedGoos",
       "name-internal": "speedgoos",
