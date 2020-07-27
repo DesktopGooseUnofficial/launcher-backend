@@ -21,7 +21,7 @@ looking for the launcher? check [this github repo](https://github.com/desktopgoo
 Please use [the launcher issue tracker](https://github.com/DesktopGooseUnofficial/launcher/issues/new/choose).
 
 ## Installer1 or Installer2?
-Installer1 extracts into the main Goose folder.
+Installer1 extracts into the main Goose Mods folder.
 Installer2 extracts into a folder for your mod.
 
 If your mod ZIP contains a folder already, use Installer1.
