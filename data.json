@@ -184,18 +184,6 @@
       "config-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Temporary%20mod%20configurators/DiscoGoose/Configurator.dll?raw=true",
       "resourcehub": "https://github.com/DesktopGooseUnofficial/ResourceHub/blob/master/mods/DiscoGoose.md"
     },
-    "necc": {
-      "name": "NECC",
-      "name-internal": "necc",
-      "level": 0,
-      "category": "default",
-      "author": "Lil Sizzurp#0001",
-      "description": "NNNNNNNNNNNNNNNNNNNNEEEEEEEEEEEEEEEEEEEEEEEEEEEECCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC. Goose have long neck. Very long NNNNNNNNNNNNNNNNNNNNNNNNEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEECCCCCCCCCCCCCCCCCCCCC",
-      "goose-version": "0.3",
-      "mod-version": "1.0",
-      "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/necc-1.0/NECC.dll",
-      "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/NECC.html"
-    },
     "acidgoose": {
       "name": "AcidGoose",
       "name-internal": "acidgoose",
