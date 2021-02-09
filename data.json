@@ -69,20 +69,6 @@
           "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/Clicker.html",
           "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/clicker/Clicker.dll"
       },
-      "discogoose": {
-          "author": "VeeDeeOh",
-          "category": "default",
-          "config-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Temporary%20mod%20configurators/DiscoGoose/Configurator.dll?raw=true",
-          "description": "Think your goose is boring? Now, your goose will flash different colors! Disco ball goose.",
-          "goose-version": "0.3",
-          "install-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Mod%20Default%20Installers/Installer1/Installer.dll?raw=true",
-          "level": 0,
-          "mod-version": "0.1.2",
-          "name": "DiscoGoose",
-          "name-internal": "discogoose",
-          "resourcehub": "https://github.com/DesktopGooseUnofficial/ResourceHub/blob/master/mods/DiscoGoose.md",
-          "url": "https://github.com/VeeDeeOh/DiscoGoose/releases/download/1.2/DiscoGoose_1.2.zip"
-      },
       "draggoose": {
           "author": "Straaft#2916",
           "category": "default",
