@@ -69,6 +69,19 @@
           "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/Clicker.html",
           "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/clicker/Clicker.dll"
       },
+      "debugoose": {
+        "author": "CodeF53#0241",
+        "category": "default",
+        "description": "CodeF53's Debugging tool.\n - Shows console output while goose is running\n - Saves full console output to log.txt\n - Other debugging info \nPM CodeF53#0241 to request features",
+        "description-debug": "Debugging tool.\n\n<m>Does this stuff:</m>\n - Shows console output while goose is running\n - Saves full console output to log.txt\n - Various Goose Values \n\n<m>PM Author to request features and report bugs</m>",
+        "goose-version": "0.3",
+        "level": 0,
+        "mod-version": "1.0",
+        "name": "Debugoose",
+        "name-internal": "debugoose",
+        "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/Debugoose.html",
+        "url": "https://github.com/CodeF53/DskptGoose-Debugoose/releases/download/v1.1/debugoose.dll"
+      },
       "draggoose": {
           "author": "Straaft#2916",
           "category": "default",
@@ -145,19 +158,6 @@
           "name-internal": "honcker",
           "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/Honcker.html",
           "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/honcker/Honcker.dll"
-      },
-      "label-mod": {
-          "author": "CodeF53#0241",
-          "category": "default",
-          "description": "CodeF53's Debugging tool.\n - Shows console output while goose is running\n - Saves full console output to log.txt\n - Other debugging info \nPM CodeF53#0241 to request features",
-          "description-debug": "Debugging tool.\n\n<m>Does this stuff:</m>\n - Shows console output while goose is running\n - Saves full console output to log.txt\n - Various Goose Values \n\n<m>PM Author to request features and report bugs</m>",
-          "goose-version": "0.3",
-          "level": 0,
-          "mod-version": "1.0",
-          "name": "Debugoose",
-          "name-internal": "debugoose",
-          "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/Debugoose.html",
-          "url": "https://github.com/CodeF53/DskptGoose-Debugoose/releases/download/v1.1/debugoose.dll"
       },
       "memegoos": {
           "author": "pluto_null#2473",
