@@ -193,8 +193,7 @@
       "description": "Goose but on drugs",
       "goose-version": "0.3",
       "mod-version": "1.0",
-      "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/AcidGoose/AcidGoose.zip",
-      "install-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Mod%20Default%20Installers/Installer1/Installer.dll?raw=true",
+      "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/AcidGoose/AcidGoose.dll",
       "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/AcidGoose.html"
     },
     "ball": {
