@@ -41,7 +41,7 @@
           "name": "BallModv1.0",
           "name-internal": "ball",
           "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/Ball.html",
-          "url": "https://github.com/TheOrlando/DesktopGooseMod_Ball/releases/download/1.0/BallModv1.0.zip"
+          "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/ball-1.0/BallModv1.0.zip"
       },
       "breadcrumbs": {
           "author": "Straaft#2916",
@@ -55,7 +55,7 @@
           "name": "BreadCrumbs",
           "name-internal": "breadcrumbs",
           "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/BreadCrumbs.html",
-          "url": "https://github.com/euandeas/GooseMod_BreadCrumbs/releases/latest/download/BreadCrumbs.zip"
+          "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/breadcrumbs-1.5/BreadCrumbs.zip"
       },
       "clicker": {
           "author": "Unknown",
@@ -80,7 +80,7 @@
         "name": "Debugoose",
         "name-internal": "debugoose",
         "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/Debugoose.html",
-        "url": "https://github.com/CodeF53/DskptGoose-Debugoose/releases/download/v1.1/debugoose.dll"
+        "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/debugoose/debugoose.dll"
       },
       "draggoose": {
           "author": "Straaft#2916",
@@ -92,7 +92,7 @@
           "name": "DragGoose",
           "name-internal": "draggoose",
           "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/DragGoose.html",
-          "url": "https://github.com/euandeas/GooseMod_DragGoose/releases/download/1.0/DragGoose.dll"
+          "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/draggoose/DragGoose.dll"
       },
       "goose-lua": {
           "author": "Lil Sizzurp#0001",
@@ -145,7 +145,7 @@
           "name": "HatGoos",
           "name-internal": "hatgoos",
           "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/hatgoos.html",
-          "url": "https://cdn.discordapp.com/attachments/676616674601992223/676952329110421517/HatGoos.zip"
+          "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/hatgoos-0.3/HatGoos.zip"
       },
       "honcker": {
           "author": "mattx",
@@ -182,7 +182,7 @@
           "name": "PortalGoos",
           "name-internal": "portalgoos",
           "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/PortalGoos.html",
-          "url": "https://github.com/Moonaliss1/DesktopGooseMod_PortalGoos/releases/download/v1.1/PortalGoos.zip"
+          "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/portalgoos-1.1/PortalGoos.zip"
       },
       "quacklua": {
           "author": "easy bake oven#6781",
