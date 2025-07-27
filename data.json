@@ -27,7 +27,7 @@
           "name": "ArrowGoos",
           "name-internal": "arrowgoos",
           "resourcehub": "",
-          "url": "https://github.com/Plutonium-236/ArrowGoose/releases/download/1.0.2/ArrowGoos.dll"
+          "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/arrowgoos/ArrowGoos.dll"
       },
       "ball": {
           "author": "TheOrlando#9984",
@@ -105,7 +105,7 @@
           "name": "GooseLua",
           "name-internal": "goose-lua",
           "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/GooseLua.html",
-          "url": "https://github.com/GooseLua/GooseLua/releases/download/v0.3-alpha/GooseLua.zip"
+          "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/gooselua/GooseLua.zip"
       },
       "goosemanager": {
           "author": "JQ#1693",
@@ -119,7 +119,7 @@
           "name": "GooseManager",
           "name-internal": "goosemanager",
           "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/GooseManager.html",
-          "url": "https://github.com/1JQ/GooseManager/releases/latest/download/GooseManager.dll"
+          "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/goosemanager/GooseManager.dll"
       },
       "goosepresence": {
           "category": "default",
@@ -131,7 +131,7 @@
           "name": "GoosePresence",
           "name-internal": "goosepresence",
           "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/GoosePresence.html",
-          "url": "https://github.com/VisualError/GoosePresence/releases/download/1.0/GoosePresence.zip"
+          "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/goosepresence/GoosePresence.zip"
       },
       "hatgoos": {
           "author": "DaNike#6223",
@@ -169,7 +169,7 @@
           "name": "MemeGoos",
           "name-internal": "memegoos",
           "resourcehub": "",
-          "url": "https://github.com/Plutonium-236/memegoos/releases/download/0.0.1/memegoos.dll"
+          "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/memegoos/memegoos.dll"
       },
       "portalgoos": {
           "category": "default",
@@ -183,19 +183,6 @@
           "name-internal": "portalgoos",
           "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/PortalGoos.html",
           "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/portalgoos-1.1/PortalGoos.zip"
-      },
-      "quacklua": {
-          "author": "easy bake oven#6781",
-          "category": "modloader",
-          "description": "A Lua API for Desktop Goose mods.",
-          "goose-version": "0.3",
-          "install-url": "https://github.com/DesktopGooseUnofficial/launcher/blob/master/Mod%20Default%20Installers/Installer1/Installer.dll?raw=true",
-          "level": -1,
-          "mod-version": "0.2",
-          "name": "QuackLua",
-          "name-internal": "quacklua",
-          "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/Quack.html",
-          "url": "https://github.com/cuboide/QuackLuaModloader/releases/download/v0.21/QuackLua.zip"
       },
       "rainbowstrobe": {
           "author": "Samperson",
@@ -246,7 +233,7 @@
           "name": "Sonicgoose",
           "name-internal": "sonigoose",
           "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/Sonigoose.html",
-          "url": "https://github.com/CodeF53/DskptGoose-Sonigoose/releases/download/v1.0/Sonicgoose.dll"
+          "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/Sonicgoose/Sonicgoose.dll"
       },
       "speedgoos": {
           "author": "pluto_null#2473",
@@ -258,7 +245,7 @@
           "name": "SpeedGoos",
           "name-internal": "speedgoos",
           "resourcehub": "",
-          "url": "https://github.com/Plutonium-236/speedgoos/releases/download/1.0/speedgoos.dll"
+          "url": "https://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/speedgoos/speedgoos.dll"
       },
       "toys": {
           "author": "TheOrlando#9984",
@@ -272,7 +259,7 @@
           "name": "ToysModv1.1",
           "name-internal": "toys",
           "resourcehub": "https://desktopgooseunofficial.github.io/ResourceHub/mods/Toys.html",
-          "url": "https://github.com/TheOrlando/DesktopGooseMod_Toys/releases/download/latest/ToysModv1.1.zip"
+          "url": "hhttps://github.com/DesktopGooseUnofficial/ResourceHub/releases/download/toys/ToysModv1.1.zip"
       }
   }
 }
